@@ -2,13 +2,13 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div name="about" className="w-full h-full-screen bg-gradient-to-b from-gray-800 to-black text-white">
+    <div name="about" className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white">
     
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full  ">
-        <div className="pb-8 ">
-            <p className="text-4xl font-bold inline  border-gray-500 ">About</p>
+      <div className="max-w-screen-lg p-5 mx-auto flex flex-col justify-center w-full h-full  ">
+        <div className="pb-8 sm:flex sm:items-end">
+            <p className="text-4xl font-bold inline  border-gray-500   ">About</p>
         </div>
-        <p className="text-xl mt-20 ">
+        <p className="text-sm md:text-xl ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Voluptate aliquam eveniet adipisci voluptas praesentium repellat libero excepturi, 
             beatae fugit eius velit a voluptates molestias pariatur facilis cupiditate. 
@@ -20,7 +20,7 @@ const About = () => {
 
     
 
-        <p className="text-xl ">
+        <p className="text-sm md:text-xl ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Voluptatem nulla culpa atque earum quo quos ex impedit vel. 
             Nemo ratione sequi in minus rerum aperiam fugit quasi minima esse deserunt magni, 
