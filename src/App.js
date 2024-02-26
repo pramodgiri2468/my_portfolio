@@ -15,6 +15,7 @@ function App() {
         <Sociallinks />
         
         <Routes>
+          
           <Route exact path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/experiences" element={<Experiences />} />

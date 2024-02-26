@@ -9,24 +9,26 @@ const About = () => {
             <p className="text-4xl font-bold inline  border-gray-500   ">About</p>
         </div>
         <p className="text-sm md:text-xl ">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Voluptate aliquam eveniet adipisci voluptas praesentium repellat libero excepturi, 
-            beatae fugit eius velit a voluptates molestias pariatur facilis cupiditate. 
-            Odit porro quidem laboriosam adipisci modi tempore pariatur. 
-            Quia voluptate illum modi voluptatibus. 
-            Commodi assumenda est veritatis aut error quam sapiente facere minima?
+        As a full-stack developer, 
+        I'm proficient in both frontend and backend technologies, 
+        blending expertise in JavaScript, React, and Python frameworks like Django. 
+        From crafting intuitive user interfaces to implementing robust server-side logic, 
+        I ensure seamless end-to-end development. 
+        My approach prioritizes user-centric design and scalable architecture, 
+        delivering impactful web solutions aligned with client goals.
         </p>
         <br />
 
     
 
         <p className="text-sm md:text-xl ">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Voluptatem nulla culpa atque earum quo quos ex impedit vel. 
-            Nemo ratione sequi in minus rerum aperiam fugit quasi minima esse deserunt magni, 
-            officiis accusamus nobis non? Illo debitis tempora ex consequuntur perferendis provident minima illum, 
-            alias numquam velit deserunt expedita vitae adipisci aperiam voluptas? Autem culpa rem, 
-            modi libero natus porro.
+        Specializing as a Python developer, 
+        I leverage the language's versatility to build efficient backend systems, 
+        utilizing frameworks such as Django and Flask. With Python's rich ecosystem, 
+        I tackle diverse tasks ranging from data analysis to web scraping, 
+        ensuring optimal performance and maintainability. 
+        My commitment lies in harnessing Python's power to create innovative solutions that drive business success
+         and foster digital innovation.
         </p>
 
         
